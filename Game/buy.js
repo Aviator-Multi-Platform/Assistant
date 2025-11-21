@@ -1,5 +1,5 @@
 // public/buy.js
-const SERVER_BASE = 'https://cb-cxpf.onrender.com';
+const SERVER_BASE = 'https://cb-d559.onrender.com';
 
 const buyButtons = document.querySelectorAll('.buyBtn');
 const messageDiv = document.getElementById('message');
